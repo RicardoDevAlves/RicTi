@@ -60,7 +60,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RicTi/RicTi/output/snake.svg" alt="Snake animation" />
+<img src=".." alt="Snake animation" />
 
 ###
 
