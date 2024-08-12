@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Tecnologias e Frameworks que tenho algum conhecimento:</p>
+<p align="left">Tecnologias e Frameworks que utilizo no meu dia-a-dia:</p>
 
 ###
 
