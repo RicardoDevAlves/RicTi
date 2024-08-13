@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/hCA2Sd0NIvIAAAAd/coding.gif"  />
+  <img height="200" src="https://tenor.com/pt-BR/view/coding-gif-21379254"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@
 
 ###
 
-<img src=".." alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RicTi/RicTi/output/snake.svg" alt="Snake animation" />
 
 ###
 
