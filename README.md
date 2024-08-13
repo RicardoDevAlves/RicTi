@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/hCA2Sd0NIvIAAAAd/coding.gif"  />
+  <img height="200" src=""  />
 </div>
 
 ###
