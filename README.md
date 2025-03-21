@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Olá, tudo bem?<br>Meu nome é Ricardo Alves, estudante de tecnologia cursando o 4º semestre do Ensino Superior em Análise e Desenvolvimento de Sistemas e apaixonado por programação.</p>
+<p align="center">Olá, tudo bem?<br>Meu nome é Ricardo Alves, estudante de tecnologia cursando o 5º semestre do do curso Análise e Desenvolvimento de Sistemas.</p>
 
 ###
 
